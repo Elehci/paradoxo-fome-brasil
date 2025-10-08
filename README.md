@@ -2,13 +2,11 @@
 
  #  📖 Sobre o Projeto
 
-Este projeto é uma análise de dados completa sobre o paradoxo da insegurança alimentar no Brasil, um país que é uma potência agrícola mas ainda enfrenta o desafio da fome. O objetivo foi utilizar dados públicos para entender as causas estruturais do problema, focando no acesso e não na produção.
+Este projeto é uma análise de dados completa sobre o paradoxo da insegurança alimentar no Brasil, um país que é uma potência agrícola Nome ainda enfrenta o desafio da fome. O objetivo foi utilizar dados públicos para entender as causas estruturais do problema, focando no acesso e não na produção.
 
-Este foi o projeto final para o curso de Análise de Dados [Nome do Curso, se quiser].
+Este foi o projeto final para o curso de Análise de Dados Engenharia de Dados
 
- Dashboard Interativo:  [ Clique aqui para ver o dashboard ao vivo ](COLE O LINK PÚBLICO DO SEU DASHBOARD DO LOOKER STUDIO AQUI)
 
-![Screenshot do seu Dashboard](COLE AQUI O LINK DE UMA IMAGEM DO SEU DASHBOARD)
 
 ---
 
